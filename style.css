@@ -20,6 +20,10 @@ body *{
     transition: 0.3s;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 html, body{
     padding: 0;
     margin: 0;
