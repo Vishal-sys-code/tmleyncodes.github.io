@@ -390,30 +390,24 @@ h6 {font-size: 16px;}
 
 #footer{
     background-color: var(--mainColor);
-    height: 20px;
     padding: 6% 10%;
     text-align: center;
 }
 .uil-linkedin{
     padding: 0 20px 40px;
-    font-size: 29px;
 }
 .uil-facebook{
     padding: 0 20px 40px;
-    font-size: 29px;
 }
 
 .uil-instagram-alt{
     padding: 0 20px 40px;
-    font-size: 29px;
 }
 
 .uil-github{
     padding: 0 20px 40px;
-    font-size: 29px;
 }
 
 .uil-envelope-alt{
     padding: 0 20px 40px;
-    font-size: 29px;
 }
